@@ -1,0 +1,1 @@
+Olá, esse projeto é uma simples página de blog com Html e Css.
