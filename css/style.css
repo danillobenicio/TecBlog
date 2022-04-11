@@ -96,3 +96,23 @@ a:hover {
 	display: block;
 	margin-top: 10px;
 }
+
+@media (prefers-color-scheme:  dark){
+	body {
+		background-color: #010101;
+		color: #f0ece2;
+	}
+
+	#navegacao {
+		background-color: #111111;
+		color: #f0ece2;
+	}
+
+	#postagem {
+		background-color: #111111;
+	}
+
+	img {
+    	filter: brightness(0.9);
+  	}
+}
